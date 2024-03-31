@@ -70,6 +70,7 @@ int main(void)
 
 
 
+![Screenshot 2024-03-26 111936](https://github.com/ARCH2006/Linux-Process-API-fork-wait-exec/assets/144300030/e4568bde-1a35-438f-9a26-aecf564fb2c9)
 
 
 
@@ -82,6 +83,7 @@ int main(void)
 
 ##OUTPUT
 
+![Screenshot 2024-03-26 111951](https://github.com/ARCH2006/Linux-Process-API-fork-wait-exec/assets/144300030/0471467c-2756-468b-9733-937002f9e4e4)
 
 
 
